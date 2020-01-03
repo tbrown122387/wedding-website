@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Infos on Clare and Taylor</title>
+    <link>https://taylorandclare.com/info/</link>
+    <description>Recent content in Infos on Clare and Taylor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="https://taylorandclare.com/info/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fairfield Inn &amp; Suites by Marriott</title>
+      <link>https://taylorandclare.com/info/hotel_option1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://taylorandclare.com/info/hotel_option1/</guid>
+      <description>August 14-16
+call to book (a.s.a.p)
+(410) 822-0050 Discounted Rates (mention that you&#39;re a part of the O&#39;Brien/Brown wedding)
+ $199.00  </description>
+    </item>
+    
+    <item>
+      <title>Inn at Perry Cabin</title>
+      <link>https://taylorandclare.com/info/hotel_option2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://taylorandclare.com/info/hotel_option2/</guid>
+      <description>August 14-16
+More information coming soon.</description>
+    </item>
+    
+  </channel>
+</rss>

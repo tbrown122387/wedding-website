@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Registries on Clare and Taylor</title>
+    <link>https://taylorandclare.com/registry/</link>
+    <description>Recent content in Registries on Clare and Taylor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="https://taylorandclare.com/registry/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Registry</title>
+      <link>https://taylorandclare.com/registry/registry_by_zola/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://taylorandclare.com/registry/registry_by_zola/</guid>
+      <description> Click here for a link to our registry.    Fall 2019 in Onemo, VA
+    </description>
+    </item>
+    
+  </channel>
+</rss>

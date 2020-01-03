@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on Clare and Taylor</title>
+    <link>https://taylorandclare.com/events/</link>
+    <description>Recent content in Events on Clare and Taylor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="https://taylorandclare.com/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reception - August 15, 5:30PM</title>
+      <link>https://taylorandclare.com/events/reception/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://taylorandclare.com/events/reception/</guid>
+      <description>The Home of Susan and James O&#39;Brien
+26411 Presquile Dr S, Easton, MD 21601
+ </description>
+    </item>
+    
+    <item>
+      <title>Wedding Ceremony - August 15, 2:00PM</title>
+      <link>https://taylorandclare.com/events/ceremony/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://taylorandclare.com/events/ceremony/</guid>
+      <description>St. Michael&#39;s Mission Church
+109 Lincoln Ave, St Michaels, MD 21663
+ </description>
+    </item>
+    
+    <item>
+      <title>Welcome Drinks - August 14, 7:30PM</title>
+      <link>https://taylorandclare.com/events/welcome_drinks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://taylorandclare.com/events/welcome_drinks/</guid>
+      <description>Location: TBD</description>
+    </item>
+    
+  </channel>
+</rss>
