@@ -4,7 +4,7 @@ title: "Reception - August 15, 5:30PM"
 draft: false
 ---
 
-The Home of Susan and James O'Brien
+The Home of Susan and Jim O'Brien
 
 26411 Presquile Dr S, Easton, MD 21601
 
