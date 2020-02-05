@@ -8,11 +8,12 @@ draft: false
 1. The Inn at Perry Cabin
 
     - {{< rawhtml >}} <a href="https://innatperrycabin.com/">a luxury resort and spa</a> {{< /rawhtml >}}
+
     - fewer rooms available than the options below
 
-
-
 2. Fairfield Inn & Suites by Marriott
+
+    - we will have a shuttle service from here to Friday and Saturday's events
 
     - {{< rawhtml >}} <a href="tel:14108220050">call to book: (410) 822-0050</a> {{< /rawhtml >}}
 
@@ -24,4 +25,8 @@ draft: false
 
     - {{< rawhtml >}} <a href="https://www.airbnb.com/">AirBnb.com</a> {{< /rawhtml >}}
 
- 
+4. Bed and Breakfasts
+
+    - plenty of cute bed and breakfasts in downtown St. Michaels and Easton
+   
+    - more hotel options along route 50 near Fairfield Inn & Suites
