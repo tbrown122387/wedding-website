@@ -65,12 +65,18 @@ displayrssicon = false
     name = "Registry"
     identifier = "registry"
     weight = 400
-    url = "/registry/"
+    url = "https://www.zola.com/registry/taylorandclare"
 [[menu.main]]
     name = "Pictures"
     identifier = "pictures"
     weight = 500
-    url = "/pics/"
+    url = "/pics/all_pics/"
+[[menu.main]]
+    name = "RSVP"
+    identifier = "rsvp"
+    weight = 600
+    url = "https://taylorandclare.anrsvp.com/#home"
+
 
 
 

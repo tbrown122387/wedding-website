@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://taylorandclare.com/categories/</loc>
+    <loc>https://taylorandclare.com/</loc>
+    <lastmod>2020-02-07T20:12:57-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://taylorandclare.com/</loc>
+    <loc>https://taylorandclare.com/rsvp/rsvp_link/</loc>
+    <lastmod>2020-02-07T20:12:57-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://taylorandclare.com/rsvp/</loc>
+    <lastmod>2020-02-07T20:12:57-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://taylorandclare.com/categories/</loc>
   </url>
   
   <url>
